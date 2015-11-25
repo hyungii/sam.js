@@ -1,0 +1,30 @@
+<div class="panel-body">
+<!--
+	<map zoom="11" center="[37.564615, 126.98420299999998]">
+		<marker position="[37.564615, 126.98420299999998]" />
+		<shape name="circle" radius="400"
+			center="[37.564615,126.98420299999998]" radius="4000" />
+		<control name="overviewMap" opened="true" />
+	</map>
+-->
+<!--
+	<map zoom="11" center="[{{latit}}, {{lngit}}]">
+		<marker position="[{{latit}}, {{lngit}}]" />
+		<shape name="circle" radius="400"
+			center="[{{latit}},{{lngit}}]" radius="4000" />
+		<control name="overviewMap" opened="true" />
+	</map>
+-->
+	<map center="41.850033,-87.6500523" zoom="3">
+		<info-window id="1" position="41.850033,-87.6500523" visible="true">
+			<div ng-non-bindable="">
+				Chicago, IL<br>
+				LatLng: {{chicago.lat()}}, {{chicago.lng()}}, <br>
+				World Coordinate: {{worldCoordinate.x}}, {{worldCoordinate.y}}, <br>
+				Pixel Coordinate: {{pixelCoordinate.x}}, {{pixelCoordinate.y}}, <br>
+				Tile Coordinate: {{tileCoordinate.x}}, {{tileCoordinate.y}} at Zoom Level {{map.getZoom()}}
+			</div>
+		</info-window>
+	</map>
+
+</div>

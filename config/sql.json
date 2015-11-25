@@ -1,0 +1,6 @@
+{
+  "farm_info": {
+    "selectAll": "select * from farm_info",
+    "selectByFarmNo": "select * from farm_info where farm_no=$1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "14.49.37.90",
+    "port": "5432",
+    "database": "samdb",
+    "user": "samadm",
+    "password": "samadm@damola12@"
+  },
+  "mqtt": {
+      "host": "14.49.37.90"
+  },
+  "loglevel": "debug"
+}

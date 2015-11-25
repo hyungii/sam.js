@@ -1,0 +1,455 @@
+2015-11-04T14:58:43.008Z - debug: message
+2015-11-04T14:58:43.011Z - info: message
+2015-11-04T14:58:43.011Z - notice: message
+2015-11-04T14:58:43.011Z - warning: message
+2015-11-04T14:58:43.011Z - error: message
+2015-11-04T14:58:43.011Z - alert: message
+2015-11-04T14:58:43.011Z - crit: message
+2015-11-04T15:01:12.907Z - info: info
+2015-11-04T15:01:12.910Z - info: message
+2015-11-04T15:01:12.910Z - notice: message
+2015-11-04T15:01:12.910Z - warning: message
+2015-11-04T15:01:12.911Z - error: message
+2015-11-04T15:01:12.911Z - alert: message
+2015-11-04T15:01:12.912Z - crit: message
+2015-11-04T15:02:17.795Z - info: info
+2015-11-04T15:02:17.800Z - info: message
+2015-11-04T15:02:17.800Z - notice: message
+2015-11-04T15:02:17.800Z - warning: message
+2015-11-04T15:02:17.800Z - error: message
+2015-11-04T15:02:17.800Z - alert: message
+2015-11-04T15:02:17.800Z - crit: message
+2015-11-04T15:02:46.680Z - error: message
+2015-11-04T15:02:46.682Z - alert: message
+2015-11-04T15:02:46.682Z - crit: message
+2015-11-04T15:16:52.147Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:18:23.010Z - debug: db====> [object Object]
+2015-11-04T15:18:23.091Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:18:29.581Z - debug: db====> [object Object]
+2015-11-04T15:20:06.953Z - debug: db====> [object Object]
+2015-11-04T15:20:07.018Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:10.411Z - debug: db====> [object Object]
+2015-11-04T15:20:10.423Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:13.532Z - debug: db====> [object Object]
+2015-11-04T15:20:13.544Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:16.611Z - debug: db====> [object Object]
+2015-11-04T15:20:16.625Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:18.901Z - debug: db====> [object Object]
+2015-11-04T15:20:18.919Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:19.557Z - debug: db====> [object Object]
+2015-11-04T15:20:19.573Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:20.221Z - debug: db====> [object Object]
+2015-11-04T15:20:20.236Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:20.814Z - debug: db====> [object Object]
+2015-11-04T15:20:20.830Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:21.439Z - debug: db====> [object Object]
+2015-11-04T15:20:21.453Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:22.103Z - debug: db====> [object Object]
+2015-11-04T15:20:22.119Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:22.308Z - debug: db====> [object Object]
+2015-11-04T15:20:22.322Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:22.524Z - debug: db====> [object Object]
+2015-11-04T15:20:22.537Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:22.720Z - debug: db====> [object Object]
+2015-11-04T15:20:22.730Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:22.900Z - debug: db====> [object Object]
+2015-11-04T15:20:22.912Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:23.075Z - debug: db====> [object Object]
+2015-11-04T15:20:23.089Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:23.244Z - debug: db====> [object Object]
+2015-11-04T15:20:23.256Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:23.421Z - debug: db====> [object Object]
+2015-11-04T15:20:23.433Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:23.588Z - debug: db====> [object Object]
+2015-11-04T15:20:23.599Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:23.757Z - debug: db====> [object Object]
+2015-11-04T15:20:23.777Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:23.940Z - debug: db====> [object Object]
+2015-11-04T15:20:23.951Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:24.100Z - debug: db====> [object Object]
+2015-11-04T15:20:24.112Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:24.271Z - debug: db====> [object Object]
+2015-11-04T15:20:24.284Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:24.431Z - debug: db====> [object Object]
+2015-11-04T15:20:24.443Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:24.588Z - debug: db====> [object Object]
+2015-11-04T15:20:24.602Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:24.750Z - debug: db====> [object Object]
+2015-11-04T15:20:24.761Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:25.151Z - debug: db====> [object Object]
+2015-11-04T15:20:25.163Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:25.524Z - debug: db====> [object Object]
+2015-11-04T15:20:25.541Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:25.788Z - debug: db====> [object Object]
+2015-11-04T15:20:25.800Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:26.020Z - debug: db====> [object Object]
+2015-11-04T15:20:26.033Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:26.247Z - debug: db====> [object Object]
+2015-11-04T15:20:26.260Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:26.513Z - debug: db====> [object Object]
+2015-11-04T15:20:26.527Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:26.738Z - debug: db====> [object Object]
+2015-11-04T15:20:26.750Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:27.053Z - debug: db====> [object Object]
+2015-11-04T15:20:27.068Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:27.485Z - debug: db====> [object Object]
+2015-11-04T15:20:27.496Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:28.085Z - debug: db====> [object Object]
+2015-11-04T15:20:28.096Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:20:30.447Z - debug: db====> [object Object]
+2015-11-04T15:20:30.458Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:36:56.101Z - debug: db====> [object Object]
+2015-11-04T15:36:56.135Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:37:01.998Z - debug: db====> [object Object]
+2015-11-04T15:37:02.018Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:37:10.518Z - debug: db====> [object Object]
+2015-11-04T15:37:10.527Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:37:14.850Z - debug: db====> [object Object]
+2015-11-04T15:37:14.892Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:37:52.662Z - debug: db====> [object Object]
+2015-11-04T15:37:52.691Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:38:12.146Z - debug: db====> [object Object]
+2015-11-04T15:38:12.196Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:38:41.154Z - debug: db====> [object Object]
+2015-11-04T15:38:41.175Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:38:47.653Z - debug: db====> [object Object]
+2015-11-04T15:38:47.668Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:39:14.089Z - debug: db====> [object Object]
+2015-11-04T15:39:14.110Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:39:15.184Z - debug: db====> [object Object]
+2015-11-04T15:39:15.202Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:39:16.086Z - debug: db====> [object Object]
+2015-11-04T15:39:16.099Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:39:16.917Z - debug: db====> [object Object]
+2015-11-04T15:39:16.932Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:39:48.054Z - debug: db====> [object Object]
+2015-11-04T15:39:48.099Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:40:07.844Z - debug: db====> [object Object]
+2015-11-04T15:40:07.865Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:40:31.523Z - debug: db====> [object Object]
+2015-11-04T15:40:31.566Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:13.070Z - debug: db====> [object Object]
+2015-11-04T15:42:13.101Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:17.756Z - debug: db====> [object Object]
+2015-11-04T15:42:17.771Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:22.915Z - debug: db====> [object Object]
+2015-11-04T15:42:22.929Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:25.880Z - debug: db====> [object Object]
+2015-11-04T15:42:25.897Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:26.863Z - debug: db====> [object Object]
+2015-11-04T15:42:26.876Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:27.778Z - debug: db====> [object Object]
+2015-11-04T15:42:27.792Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:28.603Z - debug: db====> [object Object]
+2015-11-04T15:42:28.622Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:29.441Z - debug: db====> [object Object]
+2015-11-04T15:42:29.453Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:30.146Z - debug: db====> [object Object]
+2015-11-04T15:42:30.163Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:30.652Z - debug: db====> [object Object]
+2015-11-04T15:42:30.667Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:30.865Z - debug: db====> [object Object]
+2015-11-04T15:42:30.882Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:31.048Z - debug: db====> [object Object]
+2015-11-04T15:42:31.060Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:31.246Z - debug: db====> [object Object]
+2015-11-04T15:42:31.260Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:31.435Z - debug: db====> [object Object]
+2015-11-04T15:42:31.451Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:31.636Z - debug: db====> [object Object]
+2015-11-04T15:42:31.652Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:31.817Z - debug: db====> [object Object]
+2015-11-04T15:42:31.827Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:32.017Z - debug: db====> [object Object]
+2015-11-04T15:42:32.028Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:32.220Z - debug: db====> [object Object]
+2015-11-04T15:42:32.230Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:32.375Z - debug: db====> [object Object]
+2015-11-04T15:42:32.386Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:32.574Z - debug: db====> [object Object]
+2015-11-04T15:42:32.588Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:32.752Z - debug: db====> [object Object]
+2015-11-04T15:42:32.762Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:46.620Z - debug: db====> [object Object]
+2015-11-04T15:42:46.630Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:48.685Z - debug: db====> [object Object]
+2015-11-04T15:42:48.706Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:49.547Z - debug: db====> [object Object]
+2015-11-04T15:42:49.557Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:50.279Z - debug: db====> [object Object]
+2015-11-04T15:42:50.289Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:50.980Z - debug: db====> [object Object]
+2015-11-04T15:42:50.995Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:53.583Z - debug: db====> [object Object]
+2015-11-04T15:42:53.599Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:42:56.545Z - debug: db====> [object Object]
+2015-11-04T15:42:56.562Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:43:05.687Z - debug: db====> [object Object]
+2015-11-04T15:43:05.711Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:44:10.919Z - debug: db====> [object Object]
+2015-11-04T15:44:10.962Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:44:12.542Z - debug: db====> [object Object]
+2015-11-04T15:44:12.560Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:44:30.272Z - debug: db====> [object Object]
+2015-11-04T15:44:30.318Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:44:33.916Z - debug: db====> [object Object]
+2015-11-04T15:44:33.926Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:44:35.325Z - debug: db====> [object Object]
+2015-11-04T15:44:35.336Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:44:36.407Z - debug: db====> [object Object]
+2015-11-04T15:44:36.420Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:44:37.158Z - debug: db====> [object Object]
+2015-11-04T15:44:37.172Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:44:37.877Z - debug: db====> [object Object]
+2015-11-04T15:44:37.891Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:44:38.561Z - debug: db====> [object Object]
+2015-11-04T15:44:38.581Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:44:39.181Z - debug: db====> [object Object]
+2015-11-04T15:44:39.198Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-04T15:44:39.771Z - debug: db====> [object Object]
+2015-11-04T15:44:39.782Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-05T06:51:54.108Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-05T06:52:01.839Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-05T06:52:03.966Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-05T06:52:05.711Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-05T06:52:07.745Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-05T06:52:09.261Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-05T06:52:10.635Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-05T06:52:12.115Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-05T10:53:04.152Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-06T08:38:33.498Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-06T08:38:38.406Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-08T05:14:05.810Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-08T05:14:08.935Z - info: [{"farm_no":"1001","farm_nm":"파파스팜"},{"farm_no":"2001","farm_nm":"하주니팜"}]
+2015-11-08T12:30:01.216Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T12:30:13.775Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T12:31:29.191Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T12:31:32.558Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T12:31:42.120Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T12:53:03.313Z - debug: 1
+2015-11-08T12:53:18.398Z - debug: 1
+2015-11-08T12:54:32.770Z - debug: 1
+2015-11-08T12:54:38.264Z - debug: 2
+2015-11-08T13:02:23.361Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T13:02:30.096Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T13:02:34.228Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T13:03:15.953Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T13:03:17.998Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T13:03:22.754Z - debug: 1
+2015-11-08T13:03:25.980Z - debug: 1
+2015-11-08T13:03:49.029Z - debug: 1
+2015-11-08T13:03:53.662Z - debug: 1
+2015-11-08T15:08:30.210Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T15:08:41.855Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T15:09:05.534Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-08T15:18:43.255Z - debug: Message from client:hi
+2015-11-08T15:18:49.586Z - debug: Message from client:my name is hyung
+2015-11-08T15:19:04.816Z - debug: Message from client:you are my sun shine
+2015-11-08T15:19:13.327Z - debug: Message from client:my only sun shine
+2015-11-08T15:19:37.910Z - debug: Message from client:my only sun shine
+2015-11-08T15:19:41.713Z - debug: Message from client:hello
+2015-11-08T15:19:54.629Z - debug: Message from client:hi
+2015-11-08T15:19:59.218Z - debug: Message from client:what
+2015-11-08T15:20:02.402Z - debug: Message from client:are
+2015-11-08T15:20:15.249Z - debug: Message from client:who
+2015-11-08T15:20:18.497Z - debug: Message from client:are?
+2015-11-08T16:29:10.813Z - debug: Message from client:hi
+2015-11-08T16:29:12.842Z - debug: Message from client:my
+2015-11-14T16:03:28.433Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-14T16:04:38.332Z - debug: Message from client:hi
+2015-11-14T16:23:15.225Z - debug: Message from client:abb
+2015-11-14T16:23:57.366Z - debug: Message from client:2122
+2015-11-14T16:26:06.216Z - debug: Message from client:aa
+2015-11-14T16:26:14.021Z - debug: another connection!!
+2015-11-14T16:26:16.183Z - debug: another connection!!
+2015-11-14T16:26:25.206Z - debug: another connection!!
+2015-11-14T16:29:59.064Z - debug: Message from client:aaa
+2015-11-14T16:30:02.277Z - debug: Message from client:bbb
+2015-11-14T16:32:18.213Z - debug: Message from client:aaa
+2015-11-14T16:51:17.054Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-14T16:51:20.129Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (대한민국 표준시), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-14T17:19:28.723Z - debug: Message from client:bbb
+2015-11-14T17:19:42.458Z - debug: Message from client:ccc
+2015-11-14T17:41:49.040Z - debug: Message from client:aaaa
+2015-11-14T17:43:17.787Z - debug: Message from client:hi
+2015-11-14T18:03:03.427Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-14T18:04:06.148Z - debug: Message from client:hi
+2015-11-14T18:22:25.065Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-14T18:22:47.545Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-15T12:12:46.628Z - debug: sub > from MQTT.js
+2015-11-15T12:12:46.633Z - debug: pub > publish
+2015-11-15T12:13:32.696Z - debug: sub > from MQTT.js
+2015-11-15T12:13:32.696Z - debug: pub > publish
+2015-11-15T12:26:58.599Z - debug: Message from client:hi
+2015-11-15T12:27:05.625Z - debug: Message from client:my name
+2015-11-15T12:27:08.445Z - debug: Message from client:is 
+2015-11-15T12:27:10.894Z - debug: Message from client:hyung
+2015-11-15T12:29:44.218Z - debug: Message from client:hi
+2015-11-15T12:29:46.913Z - debug: Message from client:kkkk
+2015-11-15T12:30:00.461Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-15T12:36:13.215Z - debug: sub > {farmNo:1001,tmpr:20}
+2015-11-15T12:36:13.220Z - debug: pub > publish
+2015-11-15T12:36:39.278Z - debug: sub > {farmNo:1001,tmpr:20}
+2015-11-15T12:36:39.278Z - debug: pub > publish
+2015-11-17T14:13:31.885Z - debug: 1002
+2015-11-17T14:17:55.984Z - debug:  version=22616
+2015-11-17T14:21:31.044Z - debug:  version=40229
+2015-11-17T14:24:40.275Z - debug:  version=19660
+2015-11-17T14:24:56.616Z - debug:  version=49609
+2015-11-17T14:26:13.680Z - debug:  version=44451
+2015-11-17T14:29:42.032Z - debug:  version=32863
+2015-11-17T14:30:27.633Z - debug:  version=18170
+2015-11-17T14:30:32.220Z - debug:  version=25225
+2015-11-17T14:30:38.557Z - debug:  version=26803
+2015-11-17T14:30:41.819Z - debug:  version=27723
+2015-11-17T14:34:04.532Z - debug: FarmService this:[object Object]
+2015-11-17T14:34:04.533Z - debug: farmService:[object Object]
+2015-11-17T14:34:04.540Z - debug: undefined
+2015-11-17T14:34:04.566Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:35:15.593Z - debug: FarmService this:[object Object]
+2015-11-17T14:35:15.595Z - debug: farmService:[object Object]
+2015-11-17T14:35:15.601Z - debug: result:undefined
+2015-11-17T14:35:15.628Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:40:51.402Z - debug: FarmService this:[object Object]
+2015-11-17T14:40:51.404Z - debug: farmService:[object Object]
+2015-11-17T14:40:51.431Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:40:51.432Z - debug: data:[object Object]
+2015-11-17T14:40:55.946Z - debug: FarmService this:[object Object]
+2015-11-17T14:40:55.946Z - debug: farmService:[object Object]
+2015-11-17T14:40:55.957Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:40:55.958Z - debug: data:[object Object]
+2015-11-17T14:40:59.861Z - debug: FarmService this:[object Object]
+2015-11-17T14:40:59.861Z - debug: farmService:[object Object]
+2015-11-17T14:40:59.869Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:40:59.869Z - debug: data:[object Object]
+2015-11-17T14:41:02.206Z - debug: FarmService this:[object Object]
+2015-11-17T14:41:02.206Z - debug: farmService:[object Object]
+2015-11-17T14:41:02.215Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:41:02.216Z - debug: data:[object Object]
+2015-11-17T14:41:04.922Z - debug: FarmService this:[object Object]
+2015-11-17T14:41:04.922Z - debug: farmService:[object Object]
+2015-11-17T14:41:04.931Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:41:04.932Z - debug: data:[object Object]
+2015-11-17T14:41:10.819Z - debug: FarmService this:[object Object]
+2015-11-17T14:41:10.820Z - debug: farmService:[object Object]
+2015-11-17T14:41:10.829Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:41:10.829Z - debug: data:[object Object]
+2015-11-17T14:42:06.087Z - debug: FarmService this:[object Object]
+2015-11-17T14:42:06.088Z - debug: farmService:[object Object]
+2015-11-17T14:42:06.098Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:42:06.098Z - debug: data:[object Object]
+2015-11-17T14:42:08.805Z - debug: FarmService this:[object Object]
+2015-11-17T14:42:08.805Z - debug: farmService:[object Object]
+2015-11-17T14:42:08.815Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:42:08.815Z - debug: data:[object Object]
+2015-11-17T14:42:11.931Z - debug: FarmService this:[object Object]
+2015-11-17T14:42:11.932Z - debug: farmService:[object Object]
+2015-11-17T14:42:11.943Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:42:11.944Z - debug: data:[object Object]
+2015-11-17T14:42:13.963Z - debug: FarmService this:[object Object]
+2015-11-17T14:42:13.963Z - debug: farmService:[object Object]
+2015-11-17T14:42:13.971Z - debug: DATA: farm_no=1001, cret_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), cret_prm_id=sys, cretr_id=adm, amd_dt=Sun Aug 02 2015 01:37:22 GMT+0900 (KST), amd_prm_id=sys, amdr_id=adm, farm_nm=파파스팜
+2015-11-17T14:42:13.972Z - debug: data:[object Object]
+2015-11-17T14:44:24.085Z - debug: FarmService this:[object Object]
+2015-11-17T14:44:24.087Z - debug: farmService:[object Object]
+2015-11-17T14:46:06.191Z - debug: FarmService this:[object Object]
+2015-11-17T14:46:06.193Z - debug: farmService:[object Object]
+2015-11-17T14:46:06.217Z - debug: data:null
+2015-11-17T14:46:08.325Z - debug: FarmService this:[object Object]
+2015-11-17T14:46:08.325Z - debug: farmService:[object Object]
+2015-11-17T14:46:08.337Z - debug: data:null
+2015-11-17T14:46:10.167Z - debug: FarmService this:[object Object]
+2015-11-17T14:46:10.167Z - debug: farmService:[object Object]
+2015-11-17T14:46:10.177Z - debug: data:null
+2015-11-17T14:46:12.544Z - debug: FarmService this:[object Object]
+2015-11-17T14:46:12.544Z - debug: farmService:[object Object]
+2015-11-17T14:46:12.552Z - debug: data:null
+2015-11-17T14:46:14.258Z - debug: FarmService this:[object Object]
+2015-11-17T14:46:14.258Z - debug: farmService:[object Object]
+2015-11-17T14:46:14.266Z - debug: data:null
+2015-11-17T14:46:15.995Z - debug: FarmService this:[object Object]
+2015-11-17T14:46:15.995Z - debug: farmService:[object Object]
+2015-11-17T14:46:16.004Z - debug: data:null
+2015-11-17T14:46:17.703Z - debug: FarmService this:[object Object]
+2015-11-17T14:46:17.704Z - debug: farmService:[object Object]
+2015-11-17T14:46:17.712Z - debug: data:null
+2015-11-17T14:48:52.522Z - debug: FarmService this:[object Object]
+2015-11-17T14:48:52.524Z - debug: farmService:[object Object]
+2015-11-17T14:48:52.549Z - debug: data:null
+2015-11-17T14:49:20.049Z - debug: FarmService this:[object Object]
+2015-11-17T14:49:20.050Z - debug: farmService:[object Object]
+2015-11-17T14:49:20.061Z - debug: data:null
+2015-11-17T14:49:34.971Z - debug: FarmService this:[object Object]
+2015-11-17T14:49:34.971Z - debug: farmService:[object Object]
+2015-11-17T14:49:34.979Z - debug: data:null
+2015-11-17T14:55:13.945Z - debug: FarmService this:[object Object]
+2015-11-17T14:55:13.947Z - debug: farmService:[object Object]
+2015-11-17T14:55:13.971Z - debug: data:null
+2015-11-17T14:56:19.309Z - debug: FarmService this:[object Object]
+2015-11-17T14:56:19.312Z - debug: farmService:[object Object]
+2015-11-17T14:56:19.338Z - debug: data:null
+2015-11-17T14:56:26.993Z - debug: FarmService this:[object Object]
+2015-11-17T14:56:26.994Z - debug: farmService:[object Object]
+2015-11-17T14:56:27.005Z - debug: data:null
+2015-11-17T14:56:34.875Z - debug: FarmService this:[object Object]
+2015-11-17T14:56:34.875Z - debug: farmService:[object Object]
+2015-11-17T14:56:34.883Z - debug: data:null
+2015-11-17T14:56:48.092Z - debug: FarmService this:[object Object]
+2015-11-17T14:56:48.092Z - debug: farmService:[object Object]
+2015-11-17T14:56:48.102Z - debug: data:null
+2015-11-17T14:56:53.076Z - debug: FarmService this:[object Object]
+2015-11-17T14:56:53.077Z - debug: farmService:[object Object]
+2015-11-17T14:56:53.087Z - debug: data:null
+2015-11-17T14:59:05.833Z - debug: FarmService this:[object Object]
+2015-11-17T14:59:05.835Z - debug: farmService:[object Object]
+2015-11-17T14:59:05.861Z - debug: data:null
+2015-11-17T14:59:08.612Z - debug: FarmService this:[object Object]
+2015-11-17T14:59:08.613Z - debug: farmService:[object Object]
+2015-11-17T14:59:08.624Z - debug: data:null
+2015-11-17T14:59:39.919Z - debug: FarmService this:[object Object]
+2015-11-17T14:59:39.921Z - debug: farmService:[object Object]
+2015-11-17T14:59:39.946Z - debug: data:null
+2015-11-17T15:18:27.703Z - debug: =================== development
+2015-11-17T15:18:34.150Z - debug: FarmService this:[object Object]
+2015-11-17T15:18:34.150Z - debug: farmService:[object Object]
+2015-11-17T15:18:34.173Z - debug: data:null
+2015-11-17T15:20:01.912Z - debug: FarmService this:[object Object]
+2015-11-17T15:20:01.913Z - debug: farmService:[object Object]
+2015-11-17T15:20:01.939Z - debug: data:null
+2015-11-17T15:20:01.940Z - debug: =================== JSON
+2015-11-17T15:20:05.091Z - debug: FarmService this:[object Object]
+2015-11-17T15:20:05.091Z - debug: farmService:[object Object]
+2015-11-17T15:20:05.103Z - debug: data:null
+2015-11-17T15:20:05.103Z - debug: =================== JSON
+2015-11-17T15:20:07.033Z - debug: FarmService this:[object Object]
+2015-11-17T15:20:07.034Z - debug: farmService:[object Object]
+2015-11-17T15:20:07.045Z - debug: data:null
+2015-11-17T15:20:07.045Z - debug: =================== JSON
+2015-11-17T15:20:08.787Z - debug: FarmService this:[object Object]
+2015-11-17T15:20:08.787Z - debug: farmService:[object Object]
+2015-11-17T15:20:08.796Z - debug: data:null
+2015-11-17T15:20:08.796Z - debug: =================== JSON
+2015-11-17T15:20:10.561Z - debug: FarmService this:[object Object]
+2015-11-17T15:20:10.562Z - debug: farmService:[object Object]
+2015-11-17T15:20:10.570Z - debug: data:null
+2015-11-17T15:20:10.570Z - debug: =================== JSON
+2015-11-17T15:20:12.412Z - debug: FarmService this:[object Object]
+2015-11-17T15:20:12.412Z - debug: farmService:[object Object]
+2015-11-17T15:20:12.421Z - debug: data:null
+2015-11-17T15:20:12.421Z - debug: =================== JSON
+2015-11-17T15:20:17.021Z - debug: FarmService this:[object Object]
+2015-11-17T15:20:17.021Z - debug: farmService:[object Object]
+2015-11-17T15:20:17.030Z - debug: data:null
+2015-11-17T15:20:17.030Z - debug: =================== JSON
+2015-11-17T15:27:07.198Z - debug: 1111
+2015-11-17T15:27:10.744Z - debug: 1111
+2015-11-17T15:27:12.584Z - debug: 1111
+2015-11-17T15:27:14.399Z - debug: 1111
+2015-11-17T15:27:16.158Z - debug: 1111
+2015-11-17T15:27:17.698Z - debug: 1111
+2015-11-17T15:27:19.348Z - debug: 1111
+2015-11-17T15:27:20.952Z - debug: 1111
+2015-11-17T15:27:26.956Z - debug: 1111
+2015-11-17T15:27:29.649Z - debug: 1112
+2015-11-17T15:27:38.736Z - debug: 1112
+2015-11-17T15:27:40.818Z - debug: 11r
